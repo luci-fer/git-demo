@@ -1,2 +1,3 @@
 This is a text for test, actually is an archive for test.
-This is a second line to test the pull command, in my local machine..
+This is a second line to test the pull command, in my local machine.
+I add a new line for the original test.
